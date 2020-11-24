@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning R, python, mobile development, and web development.
 - 👯 I’m looking to collaborate on a mobile application
 - 🤔 I’m looking for help with graphic design
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really enjoy learning about psychology
+
