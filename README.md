@@ -4,10 +4,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my Master degree in computer science at Florida Polytechnic University
+- 🔭 I've graduated with my Master degree in data science at Florida Polytechnic University
 - 🌱 I’m currently learning R, python, mobile development, and web development.
 - 👯 I’m looking to collaborate on a mobile application
 - 🤔 I’m looking for help with graphic design
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I really enjoy learning about psychology
+- ⚡ Fun fact: I enjoy learning about psychology, business, and finance.
 
